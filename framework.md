@@ -1,4 +1,7 @@
-# Challenges
+# CNPE Framework
+The **CNPE** framework captures the **C**hallenges and **N**eeds in **P**roof **E**ducation.
+
+## Challenges
 Challenges encountered by CS instructors and CS students in undergraduate proof-based courses along with the number of instructors and students that mentioned each challenge. The challenges mentioned only by instructors only have an instructor count, the challenges mentioned only by students only have a student count, and the challenges mentioned by both instructors and students have both counts.
 | **Challenge** | **Description** | **Instructor Count** | **Student Count** |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------------|
@@ -10,7 +13,7 @@ Challenges encountered by CS instructors and CS students in undergraduate proof-
 | **Limited Personalized Support**        | Students do not receive personalized assistance with course content due to the large number of students and limited number of instructors.                             | 10 (63%)            | 7 (35%)           |
 | **Inconsistent Grading and Feedback**   | Instructors struggle with grading students' proofs in a consistent, fair manner and providing detailed feedback on students' errors.                                  | 6 (38%)             | 6 (30%)           |
 
-# Needs
+## Needs
 Needs identified by CS instructors and CS students in undergraduate proof-based courses along with the number of instructors and students that mentioned each need. The needs mentioned only by instructors only have an instructor count, the needs mentioned only by students only have a student count, and the needs mentioned by both instructors and students have both counts.
 | **Need** | **Description** | **Instructor Count** | **Student Count** |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------------|
